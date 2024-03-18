@@ -17,7 +17,7 @@ Impute NaN values. We will use KNNImputer, because there is a connection between
 Our dataset is imbalanced. To classify minor classes correctly, we will resample our data using SMOTE.
 
 
-## 3. Scaler
+## 3. Scaler
 Our data will be scaled to result in a better classification. 
 
 
